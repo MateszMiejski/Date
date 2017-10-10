@@ -1,0 +1,6 @@
+F:\Projekty_CS\Dates\Dates\Dates\bin\Debug\Dates.exe.config
+F:\Projekty_CS\Dates\Dates\Dates\bin\Debug\Dates.exe
+F:\Projekty_CS\Dates\Dates\Dates\bin\Debug\Dates.pdb
+F:\Projekty_CS\Dates\Dates\Dates\obj\Debug\Dates.exe
+F:\Projekty_CS\Dates\Dates\Dates\obj\Debug\Dates.pdb
+F:\Projekty_CS\Dates\Dates\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
